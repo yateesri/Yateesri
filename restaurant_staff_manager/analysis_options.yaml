@@ -1,0 +1,8 @@
+analyzer:
+  errors:
+    deprecated_colon_for_default_value: ignore
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    # Add any custom lint rules here
